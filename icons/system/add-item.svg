@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="16"
+   height="16"
+   version="1.1"
+   id="svg146"
+   sodipodi:docname="add-item.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs150" />
+  <sodipodi:namedview
+     id="namedview148"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="true"
+     inkscape:zoom="59"
+     inkscape:cx="8.4491526"
+     inkscape:cy="9.5762712"
+     inkscape:window-width="3072"
+     inkscape:window-height="1691"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg146">
+    <inkscape:grid
+       type="xygrid"
+       id="grid562" />
+  </sodipodi:namedview>
+  <path
+     style="font-style:normal;font-variant:normal;font-weight:400;font-stretch:normal;font-size:10.5833px;line-height:125%;font-family:'Amatic SC';-inkscape-font-specification:'Amatic SC';letter-spacing:0;word-spacing:0;fill:#2c2c2c;fill-opacity:1;stroke:none;stroke-width:5.43041px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="M2.196 4.37c-.33-.23-.534-.562-.611-.999-.013-.447.092-.835.323-1.164.256-.367.633-.594 1.13-.683.525-.125.97-.06 1.336.197.293.205.47.575.534 1.11.085.498.018.911-.214 1.24-.64.917-1.473 1.016-2.499.3Z"
+     id="path134" />
+  <path
+     d="M8.769 2.602c-.287-.2-.465-.49-.532-.87-.01-.389.081-.727.281-1.014.223-.32.552-.517.985-.594.456-.109.843-.051 1.162.172.255.178.41.5.465.965.076.434.015.794-.186 1.08-.557.798-1.282.885-2.175.26Z"
+     style="font-style:normal;font-variant:normal;font-weight:400;font-stretch:normal;font-size:10.5833px;line-height:125%;font-family:'Amatic SC';-inkscape-font-specification:'Amatic SC';letter-spacing:0;word-spacing:0;fill:#2c2c2c;fill-opacity:1;stroke:none;stroke-width:5.24781px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     id="path136" />
+  <path
+     style="font-style:normal;font-variant:normal;font-weight:400;font-stretch:normal;font-size:10.5833px;line-height:125%;font-family:'Amatic SC';-inkscape-font-specification:'Amatic SC';letter-spacing:0;word-spacing:0;fill:#2c2c2c;fill-opacity:1;stroke:none;stroke-width:5.18558px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="M13.774 7.663c-.382.039-.737-.08-1.063-.349a1.789 1.789 0 0 1-.486-1.047c-.042-.425.092-.823.4-1.196.303-.415.667-.643 1.092-.684.34-.03.698.126 1.075.476.372.308.577.653.613 1.035.098 1.062-.442 1.65-1.632 1.764z"
+     id="path138" />
+  <path
+     d="M11.098 13.25c-.224-.373-.278-.792-.161-1.257.183-.447.46-.783.834-1.007.416-.249.888-.307 1.42-.174.572.109.982.37 1.23.785.2.333.211.776.038 1.332-.134.53-.386.908-.76 1.132-1.038.621-1.904.351-2.6-.81z"
+     style="font-style:normal;font-variant:normal;font-weight:400;font-stretch:normal;font-size:10.5833px;line-height:125%;font-family:'Amatic SC';-inkscape-font-specification:'Amatic SC';letter-spacing:0;word-spacing:0;fill:#2c2c2c;fill-opacity:1;stroke:none;stroke-width:5.87708px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     id="path140" />
+  <path
+     style="font-style:normal;font-variant:normal;font-weight:400;font-stretch:normal;font-size:10.5833px;line-height:125%;font-family:'Amatic SC';-inkscape-font-specification:'Amatic SC';letter-spacing:0;word-spacing:0;fill:#2c2c2c;fill-opacity:1;stroke:none;stroke-width:6.30119px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="M6.417 15.347c.346-.313.533-.726.558-1.239-.048-.516-.228-.948-.54-1.294-.349-.385-.816-.592-1.402-.621-.621-.068-1.124.072-1.508.42-.308.278-.459.73-.454 1.354-.025.586.113 1.053.426 1.399.87.961 1.843.955 2.92-.018z"
+     id="path142" />
+  <path
+     style="font-style:normal;font-variant:normal;font-weight:400;font-stretch:normal;font-size:10.5833px;line-height:125%;font-family:'Amatic SC';-inkscape-font-specification:'Amatic SC';letter-spacing:0;word-spacing:0;fill:#2c2c2c;fill-opacity:1;stroke:none;stroke-width:5.18558px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="M1.923 10.628c-.438.044-.846-.091-1.22-.4-.33-.363-.516-.764-.559-1.203-.048-.488.106-.946.46-1.374.348-.477.766-.739 1.254-.785.39-.034.802.144 1.234.546.428.353.663.75.705 1.189.112 1.22-.508 1.895-1.874 2.026Z"
+     id="path144" />
+  <rect
+     style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#2c2c2c;fill-opacity:1;stroke:none;stroke-width:5.8714px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;paint-order:stroke fill markers;stop-color:#000000;stop-opacity:1"
+     id="rect479"
+     width="2.0000005"
+     height="6"
+     x="7"
+     y="5"
+     ry="0.36659655" />
+  <rect
+     style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#2c2c2c;fill-opacity:1;stroke:none;stroke-width:5.8714px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;paint-order:stroke fill markers;stop-color:#000000;stop-opacity:1"
+     id="rect564"
+     width="2.0000005"
+     height="6"
+     x="7"
+     y="-11"
+     ry="0.36659655"
+     transform="rotate(90)" />
+</svg>
